@@ -4,8 +4,9 @@ Hi! I'm Karol
 
 <h2 align ="center">
 Contact me with LinkedIn
+<br>
 <a href="https://www.linkedin.com/in/karol-choron/">
-<img src=https://worldvectorlogo.com/logo/linkedin-icon-2" height="40" width="40" alt="linkedin logo"/>
+<img src="https://worldvectorlogo.com/logo/linkedin-icon-2" height="40" width="40" alt="linkedin logo"/>
 </a>
 </h2>
                                                                                                      
