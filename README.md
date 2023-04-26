@@ -1,11 +1,8 @@
-<div align ="center">
+<h1 align ="center">
 Hi 👋, I'm Karol
-</div>
-<br>
---------------------------------------------------------------------------------------------------------------------
-<br>
+</h1>
 
-<div align ="center">
+<h2 align ="center">
   <p><b> About me </b> </p>
 
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
@@ -13,12 +10,11 @@ Hi 👋, I'm Karol
 ✈️ And I also love traveling </br>
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20" alt="linkedin logo"/> Contact with me <br>
 
-</div>
-<br>
---------------------------------------------------------------------------------------------------------------------
-<br>
+</h2>
 
-<div align ="center">
+
+
+<h2 align ="center">
 <p><b>🛠️ Skills </b></p> <br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
@@ -30,10 +26,10 @@ Hi 👋, I'm Karol
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" width="52" alt="github logo"/> </br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="52" alt="spring logo"/> - currently learning </br> 
 
-</div>
-<br>
---------------------------------------------------------------------------------------------------------------------
-<br>
+</h2>
+
+
+
 
 
 
