@@ -2,6 +2,14 @@
 Hi! I'm Karol
 </h1>
 
+<h2 align ="center">
+Contact me with LinkedIn
+<a href="https://www.linkedin.com/in/karol-choron/">
+<img src=https://worldvectorlogo.com/logo/linkedin-icon-2" height="40" width="40" alt="linkedin logo"/>
+</a>
+</h2>
+                                                                                                     
+</h2>
 <h1 align ="center">
 My skill and tools: </br></br>
 
