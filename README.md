@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Karol
-
+--------------------------------------------------------------------------------------------------------------------
 ### About me
 
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
@@ -10,7 +10,7 @@
 --------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-### 🛠️ Skills
+### 🛠️ Skills <br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"  />
