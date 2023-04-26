@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Karol
 
---------------------------------------------------------------------------------------------------------------------
-
 ### About me
 
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
