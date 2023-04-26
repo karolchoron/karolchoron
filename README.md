@@ -21,18 +21,19 @@ Hi 👋, I'm Karol
 <div align ="center">
 <p><b>🛠️ Skills </b></p> <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/> </br>
-<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"/> </br>
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="52" alt="c# logo"/> </br>
-<img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" height="40" width="52" alt="dotnetcore logo"/> </br>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="52" alt="ms sql server logo"/> </br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/> </br>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="52" alt="c# logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" height="40" width="52" alt="dotnetcore logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="52" alt="ms sql server logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" width="52" alt="github logo"/> </br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="52" alt="spring logo"/> - currently learning </br> 
 
 </div>
+<br>
 --------------------------------------------------------------------------------------------------------------------
-
+<br>
 
 
 
