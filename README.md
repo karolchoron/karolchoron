@@ -12,7 +12,7 @@ About me
 <h2 align ="center">
 🛠️ Skills
 </h2>
-<p>
+<p align ="center">
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="30" width="30" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="30" width="30" alt="hibernate logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="30" width="30" alt="c# logo"/>
@@ -21,7 +21,7 @@ About me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="30" width="30" alt="github logo"/> </br>
 </p>
-<p><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="30" alt="spring logo"/> - currently learning </br> </p>
+<p align ="center"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="30" alt="spring logo"/> - currently learning </br> </p>
 
 
 
