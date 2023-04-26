@@ -1,17 +1,19 @@
+<div align="center">
 ### Hi 👋, I'm Karol
+</div>
 --------------------------------------------------------------------------------------------------------------------
 ### About me
 
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
 📚 I am interested in the history of the 20th century </br>
 ✈️ And I also love traveling </br>
-<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40" width="52" alt="linkedin logo"/> Contact with me <br>
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20" alt="linkedin logo"/> Contact with me <br>
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div align="center">
 ### 🛠️ Skills
 
-<div align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"  />
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="52" alt="c# logo" />
