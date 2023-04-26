@@ -14,7 +14,7 @@ About me
 
 <h2 align ="center">
 🛠️ Skills
-     <br>
+     <br><br>
 
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"/>
