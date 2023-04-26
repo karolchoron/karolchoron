@@ -2,22 +2,21 @@
 Hi 👋, I'm Karol
 </h1>
 
-<h2 align ="left">
-  <p><b> About me </b> </p>
-
+<h2 align ="center">
+About me
+</h2>
+<h2>
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
 📚 I am interested in the history of the 20th century </br>
 ✈️ And I also love traveling </br>
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20" alt="linkedin logo"/> Contact with me <br>
-
 </h2>
 
-
-
 <h2 align ="center">
-<p><b>🛠️ Skills </b></p> <br>
+🛠️ Skills
+     <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="52" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="52" alt="hibernate logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="52" alt="c# logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" height="40" width="52" alt="dotnetcore logo"/>
