@@ -3,7 +3,7 @@ Hi! I'm Karol
 </h1>
 
 <h1 align ="center">
-⚡ Skill and Tools⚡ </br></br>
+Skill and Tools </br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="40" alt="hibernate logo"/>
