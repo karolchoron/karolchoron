@@ -1,8 +1,8 @@
 <h1 align ="center">
-Hi 👋, I'm Karol
+Hi! I'm Karol
 </h1>
-<h2 align ="center">
-⚡Skill⚡ </br></br>
+<h1 align ="center">
+⚡ Skill ⚡ </br></br>
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="35" width="35" alt="java logo"/>
@@ -12,7 +12,7 @@ Hi 👋, I'm Karol
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="35" width="35" alt="ms sql server logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="git logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="35" width="35" alt="github logo"/> </br>
-</h2>
+</h1>
 
 
 
