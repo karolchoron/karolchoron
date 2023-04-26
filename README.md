@@ -1,7 +1,10 @@
 <div align ="center">
 Hi 👋, I'm Karol
 </div>
+<br>
 --------------------------------------------------------------------------------------------------------------------
+<br>
+
 <div align ="center">
   <p><b> About me </b> </p>
 
@@ -11,7 +14,10 @@ Hi 👋, I'm Karol
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20" alt="linkedin logo"/> Contact with me <br>
 
 </div>
+<br>
 --------------------------------------------------------------------------------------------------------------------
+<br>
+
 <div align ="center">
 <p><b>🛠️ Skills </b></p> <br>
 
