@@ -1,16 +1,8 @@
 <h1 align ="center">
 Hi 👋, I'm Karol
 </h1>
-
 <h2 align ="center">
-About me
-</h2>
-
-<p> 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </p>
-<p> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20" width="20" alt="linkedin logo"/> Contact with me </p>
-
-<h2 align ="center">
-🛠️ Skills
+Skills
 </h2>
 <p align ="center">
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="30" width="30" alt="java logo"/>
