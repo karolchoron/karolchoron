@@ -2,7 +2,7 @@
 Hi 👋, I'm Karol
 </h1>
 
-<h2 align ="center">
+<h2 align ="left">
   <p><b> About me </b> </p>
 
 🎓 I am student of Information Technology at Military University of Technology in Warsaw (engineering studies) </br>
