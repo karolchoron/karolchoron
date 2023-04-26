@@ -3,10 +3,10 @@ Hi! I'm Karol
 </h1>
 
 <h2 align ="center">
+<a href="https://www.linkedin.com/in/karol-choron/" target="_blank">
 Contact me with LinkedIn
 <br>
-<a href="https://www.linkedin.com/in/karol-choron/">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" height="40" width="40" alt="linkedin logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" height="40" width="40" alt="linkedin logo"/>
 </a>
 </h2>
                                                                                                      
