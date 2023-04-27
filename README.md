@@ -30,10 +30,10 @@ My skill and tools:
 <br></br>
 </h1>
 
-<h1 align ="center">
+<h2 align ="center">
 I'm currently learning:
 </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
-</h1>
+</h2>
 
 
