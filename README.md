@@ -19,7 +19,7 @@ My skill and tools:
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="40" alt="hibernate logo"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="40" alt="c# logo"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" height="40" width="40" alt="dotnetcore logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" height="40" width="40" alt="dotnetcore logo"/>
 </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="40" alt="ms sql server logo"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="40" width="40" alt="MySQL server logo"/> 
