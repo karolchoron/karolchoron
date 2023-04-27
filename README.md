@@ -8,7 +8,7 @@ Contact me with LinkedIn
 <br>
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" height="40" width="40" alt="linkedin logo"/>
 </a>
-<br>
+<br><br>
 </h2>
                                                                                                      
 </h2>
