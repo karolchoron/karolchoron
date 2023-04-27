@@ -4,7 +4,7 @@ Hi! I'm Karol
 
 <h2 align ="center">
 <a target="_blank" href="https://www.linkedin.com/in/karol-choron/">
-Contact me with LinkedIn
+Contact me via LinkedIn
 <br>
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" height="40" width="40" alt="linkedin logo"/>
 </a>
