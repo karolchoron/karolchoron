@@ -12,7 +12,8 @@ Contact me with LinkedIn
                                                                                                      
 </h2>
 <h1 align ="center">
-My skill and tools: </br></br>
+My skill and tools:
+</br></br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="40" alt="hibernate logo"/>
@@ -28,4 +29,11 @@ My skill and tools: </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" width="40" alt="github logo"/>
 <br></br>
 </h1>
+
+<h1 align ="center">
+I'm currently learning:
+</br></br>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
+</h1>
+
 
