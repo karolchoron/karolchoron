@@ -13,7 +13,7 @@ Contact me via LinkedIn
                                                                                                      
 </h2>
 <h1 align ="center">
-My skill and tools:
+My skills and tools:
 </br></br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/> 
