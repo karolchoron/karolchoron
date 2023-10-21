@@ -39,6 +39,7 @@ I'm currently learning:
 </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" alt="JavaScript logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="40" width="40" alt="TypeScript logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" width="40" alt="React Native logo"/>
 <br><br>
 </h2>
