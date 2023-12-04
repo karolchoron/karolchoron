@@ -22,6 +22,10 @@ My skills and tools:
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" height="40" width="40" alt="dotnetcore logo"/>
 <img src="https://docs.ongoingwarehouse.com/Content/Images/Logos/Original/MS-business-central-logo-500x240.max-500x240.png" height="55" width="110" alt="microsoft business central logo"/>
 </br></br>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" alt="JavaScript logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="40" width="40" alt="TypeScript logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" width="40" alt="React Native logo"/>
+</br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="40" alt="ms sql server logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="40" width="40" alt="MySQL server logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" alt="Docker logo"/>
@@ -38,8 +42,5 @@ My skills and tools:
 I'm currently learning:
 </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" alt="JavaScript logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="40" width="40" alt="TypeScript logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" width="40" alt="React Native logo"/>
 <br><br>
 </h2>
