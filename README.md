@@ -28,6 +28,7 @@ My skills and tools:
 </br></br>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="40" alt="ms sql server logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="40" width="40" alt="MySQL server logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="40" width="40" alt="Firebase logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" alt="Docker logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" width="40" alt="github logo"/>
