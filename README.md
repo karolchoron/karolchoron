@@ -24,19 +24,22 @@ My skills:
 <img src="https://docs.ongoingwarehouse.com/Content/Images/Logos/Original/MS-business-central-logo-500x240.max-500x240.png" height="55" width="110" alt="microsoft business central logo"/>
 </br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="40" alt="hibernate logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
-
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" alt="JavaScript logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="40" width="40" alt="TypeScript logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" width="40" alt="React Native logo"/>
+</br>
+<p> basics: </p>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" width="40" alt="java logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="40" width="40" alt="hibernate logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="40" width="40" alt="Spring logo"/>
 </br></br>
 
-and the tools I know:
+Tools I know:
 </br>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="40" alt="ms sql server logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="40" width="40" alt="MySQL server logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40" width="40" alt="Microsoft Azure"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="40" width="40" alt="Firebase logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" alt="Docker logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"/>
