@@ -1,5 +1,5 @@
 <h1 align ="center">
-Hi! I'm Karol
+Hi! I'm Karol 👋
 </h1>
 
 <h2 align ="center">
@@ -48,5 +48,5 @@ and the tools I know:
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="40" width="40" alt="intellij logo"/>
 <br></br>
 
-see you!
+See you! 👋
 </h2>
