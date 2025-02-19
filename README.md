@@ -36,9 +36,9 @@ My skills:
 
 Tools I know:
 </br>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40" width="40" alt="Microsoft Azure"/>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" width="40" alt="ms sql server logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="40" width="40" alt="MySQL server logo"/>
-<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40" width="40" alt="Microsoft Azure"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="40" width="40" alt="Firebase logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" alt="Docker logo"/>
