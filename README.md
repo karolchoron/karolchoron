@@ -21,6 +21,7 @@ My skills:
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="40" width="40" alt="c# logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" height="40" width="40" alt="dotnetcore logo"/>
 <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" height="40" width="40" alt="blazor"/>
+</br>
 <img src="https://docs.ongoingwarehouse.com/Content/Images/Logos/Original/MS-business-central-logo-500x240.max-500x240.png" height="55" width="110" alt="microsoft business central logo"/>
 </br>
 
