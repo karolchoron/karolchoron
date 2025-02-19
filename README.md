@@ -16,9 +16,9 @@ Contact me via LinkedIn
 <h2 align="center">
 🚀  Check out my latest .NET project <strong>FlightTracker</strong>!<br>
 🔗 <a href="https://findflights.onrender.com" target="_blank">Launch the application</a>  <br>
-💻 Code available in <a href="https://github.com/TwojeRepoFlightTracker" target="_blank">repository</a><br><br>
+💻 Code available in <a href="https://github.com/karolchoron/FindFlights" target="_blank">repository</a><br><br>
 </h2>
-                                                                                                     
+                                                                                    
 </h2>
 <h2 align ="center">
 My skills:
