@@ -42,7 +42,7 @@ Code available in <a href="https://github.com/karolchoron/FindFlights" target="_
 </p>
 
 <p>
-<img src="https://docs.ongoingwarehouse.com/Content/Images/Logos/Original/MS-business-central-logo-500x240.max-500x240.png" height="45"/>
+<img src="https://docs.ongoingwarehouse.com/Content/Images/Logos/Original/MS-business-central-logo-500x240.max-500x240.png" height="55"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sitecore-1.svg" height="40"/>
 </p>
 
